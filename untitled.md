@@ -1,3 +1,10 @@
-**Clustering**
+#Methodology
 
-This is where the first text of the thesis will go explaining the background and rationale for hierarchical clustering method.
+##Match filter detection
+ 
+###EQCORRSCAN
+
+##Clustering
+Match filter detection techniques are computationally expensive when applied across large datasets. The expense is multiplied as more earthquakes are added to the list of desired detectors (referred to by Barrett and Beroza as the design set) \cite{Barrett_2014}. At the same time, it is important that the design set effectively represent the variety of sources present in a given study area or risk missing what might be important seismicity. To address this, we use a combination of a hierarchical clustering technique with a series of subspace detectors.
+
+##Subspace Detection 

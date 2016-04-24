@@ -9,4 +9,8 @@ Match filter detection techniques are computationally expensive when applied acr
 
 The maximum size of the design set of earthquakes for this study is roughly 700 events, representing the entire catalog for Ngatamariki/Rotokawa for the study period. To reduce that number to a manageable size, we cluster the events based upon event-event cross correlation coefficients.
 
-##Subspace Detection 
+##Subspace Detection
+
+##Matched Field Processing
+
+\cite{Templeton_2013}

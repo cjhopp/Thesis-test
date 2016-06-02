@@ -11,3 +11,4 @@ The design set  , representing the catalog for Ngatamariki/Rotokawa for 2015. To
 ##Subspace Detection
 
 ##Matched Field Processing
+\cite{Templeton_2013}

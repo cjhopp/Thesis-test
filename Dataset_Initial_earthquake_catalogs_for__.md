@@ -1,0 +1,2 @@
+#Dataset
+Initial earthquake catalogs for this study are provided by a group at GNS, headed by Steve Sherburn, which is tasked with collecting, and preliminary analysis of, continuous seismic data from the MRP seismograph networks. The MRP data is collected roughly every three months directly from the data loggers. These data are supplemented by data from 

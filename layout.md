@@ -1,2 +1,2 @@
 Data.md
-Methodology_Match_filter_detection_EQcorrscan__.md
+Methodology.md

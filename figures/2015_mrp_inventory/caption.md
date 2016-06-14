@@ -1,1 +1,1 @@
-Replace this text with your caption
+Network map of stations for which data was available in 2015. Not shown are stations PRRZ, HRRZ and ALRZ which are located to the East and North.

@@ -1,5 +1,4 @@
 Network.md
-Introduction_Matched_filter_earthquake_detection__.tex
 Dataset.md
 Methodology.md
 Results.md

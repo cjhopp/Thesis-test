@@ -1,6 +1,8 @@
 #Methodology
 ##Match filter detection
- 
+
+\cite{Gibbons_2006}
+\cite{Shelly_2007}
 ###EQcorrscan
 
 ##NLLoc location of detections

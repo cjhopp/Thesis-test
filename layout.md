@@ -7,4 +7,3 @@ figures/2015_mrp_inventory/2015_mrp_inventory.png
 Dataset.md
 Methodology.md
 Results.md
-figures/2015_dets_nlloc_Sherburn/2015_dets_nlloc_Sherburn.png

@@ -6,4 +6,5 @@ Network.md
 figures/2015_mrp_inventory/2015_mrp_inventory.png
 Dataset.md
 Methodology.md
+figures/2015_dets_point_density/2015_dets_point_density.png
 Results.md

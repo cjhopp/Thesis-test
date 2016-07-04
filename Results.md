@@ -3,4 +3,4 @@
 
 ## NonLinLoc Locations
 
-## HypoDD reloactions
+## HypoDD relocations

@@ -3,8 +3,8 @@
 ##Match filter detection
 Matched filter earthquake detection relies on waveform cross corelation of a known earthquake signal or signals with continuously recorded seismic data. It has been shown to be especially useful in noisy areas where more traditional, amplitude-based techniques fail \cite{Gibbons_2006} \cite{Shelly_2007}. This makes it particularly useful in areas of geothermal power generation where large numbers of highly similar, low-magnitude earthquakes can occur and which are usually subject to high levels of anthropogenic noise associated with the power generation process.
 
-*Template generation*
-*MAD thresholding*
+* Template generation
+* MAD thresholding
 
 Each of the 637 earthquakes from the resulting filterred catalog was used as a template event 
 \cite{Gibbons_2006}

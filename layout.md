@@ -1,7 +1,7 @@
 Abstract_Matched_filter_earthquake_detection__.md
 Introduction_Why_do_we_care__.md
 Geologic_and_geophysical_setting_Breif__.md
-Past_work_Outline_past_earthquake__.md
+Past_work_Microseismicity_has_been__.md
 Network.md
 figures/2015_mrp_inventory/2015_mrp_inventory.png
 Dataset.md

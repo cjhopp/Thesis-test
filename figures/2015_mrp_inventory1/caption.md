@@ -1,1 +1,1 @@
-Replace this text with your caption
+\label{Figure_1} Map of the Ngatamariki and Rotokawa geothermal fields, North Island, New Zealand. FLUSH THIS OUT.

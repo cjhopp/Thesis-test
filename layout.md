@@ -3,6 +3,7 @@ Introduction_Why_do_we_care__.md
 Geologic_and_geophysical_setting_Breif__.md
 Past_work_Microseismicity_has_been__.md
 Network.md
+figures/2015_mrp_inventory1/2015_mrp_inventory1.png
 Dataset.md
 Methodology.md
 Additional methodology (proposal).md

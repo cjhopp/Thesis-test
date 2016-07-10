@@ -1,2 +1,5 @@
 #Introduction
+    The presence, importance and cause of induced seismicity at geothermal power production sites have been recognized for decades \cite{Ward_1972} \cite{Allis_1982}. Commonly, temperature and pressure changes within a reservoir as a result of fluid injection are the culprits, although seismicity has also been attributed to reservoir volume changes and changes in fluid chemistry \cite{Allis_1982} \cite{Sherburn_2015}. Most of this seismicity is of magnitude < 3.0, termed microseismicity, and presents limited hazard to local population and infrastructure. However, it can provide very useful information about the movement of fluid and pressure within the reservoir, and therefore has important implications for geothermal resource management.
+    As areas of geothermal electricity generation are inherently 
+
 Why do we care? Why is induced seismicity important in general? How about as it's related to geothermal power generation?

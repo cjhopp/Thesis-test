@@ -10,5 +10,4 @@ figures/2015_dets_point_density/2015_dets_point_density.png
 figures/mrp_hypoDD_locs_time/mrp_hypoDD_locs_time.png
 figures/mrp_hypoDD_locs_time_S/mrp_hypoDD_locs_time_S.png
 Results.md
-Discussion.md
 Conclusions.md

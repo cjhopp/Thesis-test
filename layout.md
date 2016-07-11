@@ -9,5 +9,6 @@ Methodology.md
 figures/2015_dets_point_density/2015_dets_point_density.png
 figures/mrp_hypoDD_locs_time/mrp_hypoDD_locs_time.png
 figures/mrp_hypoDD_locs_time_S/mrp_hypoDD_locs_time_S.png
+figures/Rot_cum_flow_rates/Rot_cum_flow_rates.png
 Results.md
 Conclusions.md

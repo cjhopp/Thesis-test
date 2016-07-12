@@ -1,1 +1,1 @@
-\label{Figure7} Rotokawa relocations from HypoDD.
+\label{Figure7} Rotokawa relocations from HypoDD coloured by date of occurrence between 1 January and 20 November, 2015.

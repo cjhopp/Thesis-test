@@ -1,1 +1,1 @@
-\label{Figure3} Rotokawa templates, cumulative detections against flow rate.
+\label{Figure3} Cumulative detections for all Rotokawa templates against flow rates for all Rotokawa injection wells.

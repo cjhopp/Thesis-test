@@ -1,1 +1,1 @@
-\label{Figure6} Ngatamariki relocations from HypoDD.
+\label{Figure6} Ngatamariki relocations from HypoDD coloured by date of occurrence between 1 January and 20 November, 2015.

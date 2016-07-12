@@ -14,5 +14,4 @@ figures/Nga_S_cum_flow_rates/Nga_S_cum_flow_rates.png
 NonLinLoc_Locations_A_total_of__.md
 Results.md
 figures/mrp_hypoDD_locs_time1/mrp_hypoDD_locs_time1.png
-figures/mrp_hypoDD_locs_time_S/mrp_hypoDD_locs_time_S.png
 Conclusions.md

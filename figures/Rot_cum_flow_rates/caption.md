@@ -1,1 +1,1 @@
-Rotokawa templates, cumulative detections against flow rate.
+\label{Figure3} Rotokawa templates, cumulative detections against flow rate.

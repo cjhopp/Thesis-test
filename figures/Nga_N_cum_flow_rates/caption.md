@@ -1,1 +1,1 @@
-\label{Figure4} Cumulative detections for all northern Ngatamariki templates against flow rates for all Ngatamariki injection wells.
+\label{Figure4} Cumulative detections for all northern Ngatamariki templates against injection rates for all Ngatamariki injection wells.

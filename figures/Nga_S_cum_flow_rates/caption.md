@@ -1,1 +1,1 @@
-\label{Figure5} Ngatamariki S.
+\label{Figure5} Cumulative detections for all southern Ngatamariki templates against flow rates for all Ngatamariki injection wells.

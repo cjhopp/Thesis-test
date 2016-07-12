@@ -1,1 +1,1 @@
-Replace this text with your caption
+\label{Figure1} Map of the Ngatamariki and Rotokawa geothermal fields, North Island, New Zealand. Red triangles are seismograph sites, red lines are production wells and blue lines are injection wells. The goldenrod boundaries are the \cite{boseley2010resource} and \cite{risk2000electrical} resistivity boundaries for Ngatamariki and Rotokawa respectively. Green dots represent most of the 637 template events used in the matched filter process. Note that stations HRRZ, PRRZ are not shown.

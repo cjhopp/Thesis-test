@@ -1,1 +1,1 @@
-Replace this text with your caption
+\label{Figure6} Ngatamariki relocations from HypoDD.

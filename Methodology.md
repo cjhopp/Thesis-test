@@ -7,9 +7,6 @@ The 637 events taken from the filtered GNS catalog were used as 'template events
 
 To generate detections, event templates were cross correlated with continuous data at a rate of 50 samples per second. At each sample the cross correlation coefficients for each channel of data were summed to create the detection statistic. Whenever the detection statistic exceeded a threshold value, in this case the mean absolute deviation (MAD) of the detection statistic multiplied by 8 after \cite{Shelly_2007}, a detection was recorded.
 
-\cite{Gibbons_2006}
-\cite{Shelly_2007}
-
 ##NLLoc location of detections
 Picks for each of the newly detected events were made based on cross correlation of the detecting template with the continuous data at the time of the detection. Template waveforms were correlated with network data over a 0.2 second window centered on the detection time. If a cross correlation coefficient of greater than 0.3 was found within that window, the pick was made at the time corresponding to that correlation. Channels for which a correlation coefficient of greater than 0.3 did not exist were ignored. We kept all events with more than 5 picks and discarded those with fewer. These events were then located using the nonlinear location program NonLinLoc \cite{Lomax_2014} using the OctTree search algorithm.
 

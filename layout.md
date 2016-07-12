@@ -8,8 +8,8 @@ Dataset.md
 figures/2015_dets_point_density1/2015_dets_point_density1.png
 Methodology.md
 figures/Rot_cum_flow_rates/Rot_cum_flow_rates.png
-figures/Nga_N_cum_flow_rates/Nga_N_cum_flow_rates.png
 Results_and_discussion_Matched_Filter__.md
+figures/Nga_N_cum_flow_rates/Nga_N_cum_flow_rates.png
 figures/Nga_S_cum_flow_rates/Nga_S_cum_flow_rates.png
 NonLinLoc_Locations_A_total_of__.md
 Results.md

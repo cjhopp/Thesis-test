@@ -1,1 +1,1 @@
-Ngatamariki S.
+\label{Figure5} Ngatamariki S.

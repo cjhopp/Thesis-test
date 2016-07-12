@@ -1,6 +1,7 @@
 Abstract_Matched_filter_earthquake_detection__.md
 Introduction_The_presence_importance_and__.md
 Geologic_and_geophysical_setting_Both__.md
+figures/2015_mrp_inventory3/2015_mrp_inventory3.png
 Known_seismicity_Microseismicity_has_been__.md
 Network.md
 Dataset.md

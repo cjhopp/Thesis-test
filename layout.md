@@ -6,7 +6,6 @@ Network.md
 figures/2015_mrp_inventory1/2015_mrp_inventory1.png
 Dataset.md
 Methodology.md
-figures/2015_dets_point_density/2015_dets_point_density.png
 figures/Rot_cum_flow_rates/Rot_cum_flow_rates.png
 figures/Nga_N_cum_flow_rates/Nga_N_cum_flow_rates.png
 figures/Nga_S_cum_flow_rates/Nga_S_cum_flow_rates.png

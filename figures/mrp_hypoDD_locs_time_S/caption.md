@@ -1,1 +1,1 @@
-Replace this text with your caption
+\label{Figure7} Rotokawa relocations from HypoDD.

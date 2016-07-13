@@ -1,1 +1,1 @@
-\label{Figure6} Ngatamariki relocations from HypoDD coloured by date of occurrence between 1 January and 20 November, 2015. The gray boundaries represent the \cite{boseley2010resource} and \cite{risk2000electrical} resistivity boundaries shown in \ref{Figure1}.
+\label{Figure6} Ngatamariki relocations from HypoDD coloured by date of occurrence between 1 January and 20 November, 2015. The gray boundaries represent the Boseley \cite{boseley2010resource} and Risk \cite{risk2000electrical} resistivity boundaries shown in Figure \ref{Figure1}.

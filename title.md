@@ -1,1 +1,1 @@
-Proposal
+Matched filter earthquake detection and double difference relocation at Rotokawa and Ngatamariki geothermal areas: January to November, 2015

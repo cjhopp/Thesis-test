@@ -1,6 +1,5 @@
 Introduction_Matched_filter_earthquake_detection__.md
 Geologic_and_geophysical_setting_Both__.md
-figures/mrp_tectonic1/mrp_tectonic1.png
 Known_seismicity_Microseismicity_has_been__.md
 Network.md
 Dataset.md

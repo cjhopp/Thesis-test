@@ -2,7 +2,6 @@ Introduction_Matched_filter_earthquake_detection__.md
 Geologic_and_geophysical_setting_Both__.md
 Known_seismicity_Microseismicity_has_been__.md
 Network.md
-figures/2015_mrp_inventory3/2015_mrp_inventory3.png
 Dataset.md
 figures/2015_dets_point_density1/2015_dets_point_density1.png
 Methodology.md

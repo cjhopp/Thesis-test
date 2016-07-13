@@ -4,7 +4,6 @@ figures/mrp_tectonic2/mrp_tectonic2.png
 Known_seismicity_Microseismicity_has_been__.md
 Network.md
 Dataset.md
-figures/2015_dets_point_density1/2015_dets_point_density1.png
 Methodology.md
 Results_and_discussion_Matched_Filter__.md
 figures/Rot_cum_flow_rates/Rot_cum_flow_rates.png

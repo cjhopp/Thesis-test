@@ -15,3 +15,4 @@ Results.md
 figures/mrp_hypoDD_locs_time1/mrp_hypoDD_locs_time1.png
 figures/mrp_hypoDD_locs_time_S1/mrp_hypoDD_locs_time_S1.png
 Conclusions.md
+Acknowledgments_Many_people_continue_to__.md

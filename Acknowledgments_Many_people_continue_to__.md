@@ -1,2 +1,2 @@
 #Acknowledgments
-Many people continue to provide help and guidance throughout this project. The short list of those deserving thanks includes: the folks at Mighty River Power, Steve Sherburn's group at GNS, Steve Sewell, Calum Chamberlain and Gabe Matson who all shared freely of their knowledge, resources and support.
+Many people continue to provide help and guidance throughout this project. The short list of those deserving thanks includes: the folks at Mighty River Power, Steve Sherburn's group at GNS, Steve Sewell, Calum Chamberlain, Gabe Matson, Francesco Civilini and Stefan Mroczek who all shared freely of their knowledge, resources and support.

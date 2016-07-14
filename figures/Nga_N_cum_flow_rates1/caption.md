@@ -1,1 +1,1 @@
-Replace this text with your caption
+\label{Figure4} Cumulative detections for all northern Ngatamariki templates against injection rates for all Ngatamariki injection wells.

@@ -5,6 +5,7 @@ Known_seismicity_Microseismicity_has_been__.md
 Network.md
 Dataset.md
 figures/2015_dets_point_density4/2015_dets_point_density4.png
+figures/2015_dets_point_density5/2015_dets_point_density5.png
 Methodology.md
 Results_and_discussion_Matched_Filter__.md
 figures/Rot_cum_flow_rates2/Rot_cum_flow_rates2.png

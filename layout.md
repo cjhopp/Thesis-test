@@ -14,5 +14,6 @@ NonLinLoc_Locations_A_total_of__.md
 Results.md
 figures/mrp_hypoDD_locs_time4/mrp_hypoDD_locs_time4.png
 figures/mrp_hypoDD_locs_time_S1/mrp_hypoDD_locs_time_S1.png
+figures/mrp_hypoDD_locs_time_S2/mrp_hypoDD_locs_time_S2.png
 Conclusions.md
 Acknowledgments_Many_people_continue_to__.md

@@ -1,1 +1,1 @@
-Replace this text with your caption
+\label{Figure7} Rotokawa relocations from HypoDD coloured by date of occurrence between 1 January and 20 November, 2015. The gray boundaries represent the Boseley \cite{boseley2010resource} and Risk \cite{risk2000electrical} resistivity boundaries shown in Figure \ref{Figure1}. The green diamond indicates the area of densest seismicity from 2008-2012 as published in \cite{Sherburn_2015} and shown in Figure \ref{Figure1}.
